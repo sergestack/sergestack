@@ -1,27 +1,28 @@
-# Sergey Kryuchkov
+# Sergey Kryuchkov · SergeStack
 
-**SergeStack** — building AI agents, automation, and software products.  
-Founder & CEO, [GLINVEN](https://glinven.com).
+I stress-test AI coding agents and build tools to run them better.
+Real benchmarks, what breaks, and the tooling that came out of it.
 
-## What I build
+📣 Findings posted on X: [@SergeStack](https://x.com/SergeStack)
 
-- AI agents and automation systems for real operational work
-- Custom software for government and commercial organizations
-- Practical tooling around local AI, workflows, and integrations
+## 🛠️ Tools
 
-## GLINVEN
+| Tool | What it does |
+|---|---|
+| [aiusage](https://github.com/sergestack/aiusage) | One terminal dashboard for usage and limits across Claude Code, OpenAI Codex (multi-account) and Grok |
+| *More coming* | Agent orchestration and memory tooling from my own setup |
 
-[GLINVEN CORP](https://glinven.com) is a New York technology company focused on IT systems, software development, automation, and technical services for government and commercial clients. Active SAM.gov registration (UEI `VLSHE8CZEZ65`, CAGE `253W9`).
+![aiusage](https://raw.githubusercontent.com/sergestack/aiusage/main/docs/screenshot.png)
 
-## Selected work
+## 🧪 What I work on
 
-| Project | What it is |
-|---------|------------|
-| [glinven-site](https://github.com/sergestack/glinven-site) | Public source for [glinven.com](https://glinven.com) |
-| *More agent & automation repos coming* | Public demos and operator tools as they ship |
+- Multi-agent orchestration on self-hosted Linux
+- Local LLMs vs API: cost, speed, and where each fails
+- Agent memory (Qdrant + Postgres)
+- Token efficiency and cost control for coding agents
 
-## Contact
+## 🏢 Company
 
-- Site: [glinven.com](https://glinven.com)
-- X: [@SergeStack](https://x.com/SergeStack)
-- Email: glinven.corp@gmail.com
+Founder of [GLINVEN](https://glinven.com), a New York software and automation company.
+
+📬 glinven.corp@gmail.com
